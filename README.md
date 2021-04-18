@@ -36,8 +36,8 @@
 
 ### How it works behind the scene:
 > This is a node js application which basically takes in the location of the user and gets the wather forecast report in a JSON object from https://api.openweathermap.org/data/
-> After fetching the data I am using a wbm package to automatically set you alerts every single moring of the weather forecast before you start to leave
+> After fetching the data I am using a wbm package to automatically send you alerts every single morning the weather forecast before you start to leave
 
 ### Motivation
-> I used to forget my umbrella single day it would rain so I made this amazing automation to inform me the weather forecast every single day.
+> I used to forget my umbrella every single day it would rain so I made this amazing web automation to inform me the weather forecast every single day.
 
