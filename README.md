@@ -31,7 +31,7 @@
 > node index.js
 
 ### Working:
-> Demo of the project.
+> Demo of the project
 <img src="https://github.com/Mrinmoy-Aus/WeatherForecastAutomation/blob/main/output.gif">
 
 ### How it works behind the scene:
