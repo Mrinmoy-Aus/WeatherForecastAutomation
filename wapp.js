@@ -14,7 +14,7 @@ let send= function sendMessage(respData){
             #Wind Speed: ${respData.wind.speed}`;
 
     wbm.start().then(async () => {
-        const phones = ['918777842107'];
+        const phones = ['************'];
         await wbm.send(phones, message);
         await wbm.end();
     }).catch(err => console.log(err));
