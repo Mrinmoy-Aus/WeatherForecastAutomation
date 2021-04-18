@@ -32,7 +32,7 @@
 
 ### Working:
 > Demo of the project
-<img src="https://github.com/Mrinmoy-Aus/WeatherForecastAutomation/blob/main/output.gif">
+<img src="https://github.com/Mrinmoy-Aus/WeatherForecastAutomation/blob/main/output1.gif">
 
 ### How it works behind the scene:
 > This is a node js application which basically takes in the location of the user and gets the wather forecast report in a JSON object from https://api.openweathermap.org/data/
