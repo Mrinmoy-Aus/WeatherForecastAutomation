@@ -18,7 +18,6 @@
 > Os supported: Ubuntu 18.04.5 LTS, windows 10, windows 8</br>
 > Ram: 4GB</br>
 > Space: 205.9 kB</br>
-> Graphics Card:2GB (minimum)</br>
 
 ### Install Packages
 > node install package-lock.json
